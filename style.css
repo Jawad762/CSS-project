@@ -1,0 +1,115 @@
+body {
+    color: white;
+    margin:0;
+    padding:0;
+}
+
+.Headers{
+    display:flex;
+    justify-content: end;
+    align-items: flex-end;
+    gap: 20px;
+    position: relative;
+    bottom:60px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.hamster1 {
+    height: 40px;
+    width:auto;
+    position: relative;
+    top:5px;
+    left:5px;
+}
+
+h1 {
+   font-weight: bold;
+   font-size:80px;
+
+}
+.container1 {
+    background-color: #1F2937;
+    position: relative;
+    bottom:24px;
+    height: 600px;
+}
+
+.h{
+    color:white
+}
+
+.hamster2{
+    height: 300px;
+    width:auto;
+    position:relative;
+    left: 1100px;
+    bottom: 275px;
+    
+}
+
+p span{
+    background-color: rgb(0, 174, 255);
+    position: relative;
+    bottom: 340px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 25px;
+}
+div p {
+    font-size: 30px;
+}
+.container2{
+    background-color:white;
+    color:black;
+}
+
+.container2 h2{
+    font-size: 40px;
+    text-align:center;
+}
+
+#divpic {
+    display:flex;
+    justify-content: center;
+    flex:1;
+    position:relative;
+    left:60px;
+}
+
+span.caption{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top:250px;
+    right:310px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.caption3{
+    position: relative;
+    top: 250px;
+    right:240px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#divpic img {
+    border-radius: 20px;
+}
+.container3 {
+    background-color: lightgray;
+    display: flex;
+    position: relative;
+    top:200px;
+    font-size: 70px;
+    height:300px;
+    text-align: center;
+}
+
+.container4{
+background-color: black;
+}
+
